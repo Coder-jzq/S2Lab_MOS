@@ -1,15 +1,18 @@
-1. 开发环境：   node.js
+1. 开发环境：   node.js   （建议安装v18.18.0）
 
-2. 开发软件：  HbuilderX
+2. 开发软件：  HbuilderX  （随便下）
 
 3. 操作步骤：
   3.1：   下载此仓库
-  3.2：   在项目根目录使用：   npm install   指令安装依赖
-  3.3：   在audio文件内按规则放置音频文件，在index.vue的data中增加数据结构（根据自己的demo样例数，模型数扩充即可） 
+  3.2：   在项目根目录使用（如果存在node_modules则不用）：   npm install   指令安装依赖
+  3.3：   把模型合成的语音放在推动文件夹
+   ![image](https://github.com/code-manba/S2Lab_MOS/assets/57063392/24c455cf-b36c-47ef-a3d4-8a2ead21110f)
+  3.4：   修改index.vue 里的部分代码
+   ![image](https://github.com/code-manba/S2Lab_MOS/assets/57063392/d114861c-e59e-4e0f-9596-6cd8ae0f821b)
 
 
 
-4. 示例图：
+5. 示例图：
 ![033779a96c34cd4ee03e95233865e38](https://github.com/code-manba/Mos-scoringWeb/assets/57063392/8838d8e5-c03b-4057-89dc-623e8c6947ef)
 
 
